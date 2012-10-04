@@ -1,4 +1,4 @@
-(defclass Person org.rapid7.trools.jess.example.fact.Person static)
+(defclass Person org.rapid7.trools.example.Person static)
 
 (defrule simple-test
    ?personFact <- (Person
