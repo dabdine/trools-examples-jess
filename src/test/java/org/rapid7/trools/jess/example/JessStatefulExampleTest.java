@@ -9,8 +9,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.rapid7.trools.annotation.InjectRuleSession;
 import org.rapid7.trools.annotation.RuleContext;
+import org.rapid7.trools.example.Person;
 import org.rapid7.trools.jess.JessRulesJUnit4ClassRunner;
-import org.rapid7.trools.jess.example.fact.Person;
 import org.rapid7.trools.support.ClassTypeObjectFilter;
 
 /**

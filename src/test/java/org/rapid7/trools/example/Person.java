@@ -1,4 +1,4 @@
-package org.rapid7.trools.jess.example.fact;
+package org.rapid7.trools.example;
 
 /**
  * A simple person fact used to demonstrate trools.
