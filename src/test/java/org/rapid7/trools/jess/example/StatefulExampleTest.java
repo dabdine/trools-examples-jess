@@ -22,7 +22,7 @@ import org.rapid7.trools.support.ClassTypeObjectFilter;
  */
 @RunWith(JessRulesJUnit4ClassRunner.class)
 @RuleContext(resourceURI = "org/rapid7/trools/jess/example/simple-test.clp")
-public class JessStatefulExampleTest {
+public class StatefulExampleTest {
     @Test
     public void statefulExample() throws InvalidRuleSessionException,
 	    RemoteException {
